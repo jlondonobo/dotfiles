@@ -1,0 +1,16 @@
+[user]
+        name = jlondonobo
+        email = j.londonobo@gmail.com
+[init]
+	defaultBranch = main
+[alias]
+	cm = commit -m
+	st = status -sb
+	lg = log --oneline
+[credential]
+	helper = store
+[push]
+	autoSetupRemote = true
+	default = current
+[pull]
+	ff = only

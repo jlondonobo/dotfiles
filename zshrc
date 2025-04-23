@@ -53,6 +53,7 @@ alias gaa='git add -A'
 alias gcm='git commit -m'
 alias co='git checkout'
 alias gs='git switch -'
+alias gbs='git branch --sort=committerdate'
 
 
 # Open PR on GitHub
